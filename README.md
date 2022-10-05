@@ -1,6 +1,7 @@
 # Object_tracking_model
 Model was made as an exercise in the science club : AGH_RACING
 
+![Model](model_results/results.png "Model results")
 
 ## Configuration
  It's necessary to clone yolov5 model to the Object_tracking_model independently. I had some difficulties to push changed yolov5 folder as a repo submodule on the github.
