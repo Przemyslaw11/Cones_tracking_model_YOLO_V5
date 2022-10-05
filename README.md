@@ -1,6 +1,9 @@
 # Object_tracking_model
 Model was made as an exercise in the science club : AGH_RACING
-
+# Model's basic documentation:
+ - Dataset consists of 23 GB photos of cones in Supervisely format. Training set consists 80% of all photos and testing set consists 20% of all photos.
+ 
+ # Model properties:
 ![Model](model_results/results.png "Model results")
 
 ## Configuration
