@@ -33,4 +33,9 @@ Model was made as an exercise in the science club : AGH_RACING
   - Run 'train_command.txt' on your preprocessed dataset. In case you didn't have GPU I prepared you a ready result from the calculations in the 'exp' folder.
  
  ## Dataset is available under the following link:
- https://www.fsoco-dataset.com/download
+ - https://www.fsoco-dataset.com/download
+ 
+ ## I added other model made in the Google Colab notebook (with free access to their GPU). The notebook is available at the following link :
+ - https://colab.research.google.com/drive/1H1gqPZ8LKiqk0qIbZd6B5OKFJxWCMzTM?usp=sharing
+ 
+   Ready for use dataset is smaller, but the number of epochs is greater. 
