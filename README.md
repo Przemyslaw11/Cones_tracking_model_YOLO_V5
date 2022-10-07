@@ -34,7 +34,7 @@ Model was made as an exercise in the science club : AGH_RACING
     - Make use of Roboflow app (https://app.roboflow.com) and apply their data converter (Supervisely JSON ->  YOLOv5 PyTorch TXT)
   
 # ⚫STEP 3
-  - Run 'train_command.txt' on your preprocessed dataset. In case you didn't have GPU I prepared you a ready result from the calculations in the 'exp' folder.
+  - Run 'train_command.txt' on your preprocessed dataset. In case you didn't have GPU I prepared you a ready result from the calculations in the 'model_results' folder.
  
  ## Dataset is available under the following link:
  - https://www.fsoco-dataset.com/download
