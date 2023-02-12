@@ -1,1 +1,1 @@
-ython yolov5/train.py --img 1536 --cfg yolov5n.yaml  --batch-size -1 --epochs 10 --data cones.yaml --weights yolov5n.pt --workers 1 --device 0 --name cones
+python yolov5/train.py --img 1536 --cfg yolov5n.yaml  --batch-size -1 --epochs 10 --data cones.yaml --weights yolov5n.pt --workers 1 --device 0 --name cones
