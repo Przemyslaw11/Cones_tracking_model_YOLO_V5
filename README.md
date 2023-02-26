@@ -1,10 +1,15 @@
 # Object_tracking_model_YOLO_V5
-Model was made as an exercise in the science club : AGH_RACING
+Model was made as a task in the science club : AGH_RACING
 # Model's basic documentation:
- - Dataset consists of 23 GB photos of cones in Supervisely format. Training set consists 80% of all photos and testing set consists 20% of all photos.
+ - Dataset consists of 24 GB photos of cones in Supervisely format. Training set consists 80% of all photos and testing set consists 20% of all photos.
  
  # Model properties:
-![Model](model_results/results.png "Model results")
+  ![Model](metrics/F1_curve.png "Model results")
+  ![Model](metrics/PR_curve.png "Model results")
+  ![Model](metrics/P_curve.png "Model results")
+  ![Model](metrics/R_curve.png "Model results")
+  ![Model](metricss/results.png "Model results")
+  ![Model](metrics/confusion_matrix.png "Model results")
 
 ## Configuration
  It's necessary to clone yolov5 model to the Object_tracking_model independently. I had some difficulties to push changed yolov5 folder as a repo submodule on the github.
